@@ -1,0 +1,7 @@
+{
+  "name": "practicing-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
